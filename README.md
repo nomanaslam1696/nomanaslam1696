@@ -66,14 +66,10 @@ Email Me 👉 ✉️ **nomanaslam1696@gmail.com** For Collaboration/Project or A
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomanaslam1696&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nomanaslam1696&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomanaslam1696&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=nomanaslam1696&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=nomanaslam1696&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanaslam1696&theme=radical">
 
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanaslam1696&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=nomanaslam1696&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nomanaslam1696&theme=dark&hide_border=false)
 
 
 
@@ -84,8 +80,14 @@ Email Me 👉 ✉️ **nomanaslam1696@gmail.com** For Collaboration/Project or A
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-
+<br>
+<br>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quotes" />
+</div>
+
+
+
 
