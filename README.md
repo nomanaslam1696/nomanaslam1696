@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **nomanaslam1696@gmail.com** For Collaboration/Project or A
 
 ## 🌐 LinkedIn:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-aslam-8365a6261)
-## 🔗 I am a Backend Developer. 😊😊
+## 🔗 Backend Developer.
 
 
 
